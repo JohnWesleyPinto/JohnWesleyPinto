@@ -1,16 +1,16 @@
 <h2 align="center"> John Wesley </h2>
 <p align="center">
 🎓 Sou John Wesley, estudante de Sistemas de Informação na UFPB, com foco em Segurança da Informação e Cibersegurança.
-
 👨‍💻 Tenho experiência com Python, Java, SQL, redes e sistemas operacionais (Windows/Linux), além de atuar como Vice-Presidente do Centro Acadêmico, organizando eventos e workshops.
-
 🚀 Busco oportunidades para crescer na área de tecnologia e segurança digital.
 </p>
-
+<p align ="center">
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-moreira-pinto)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:john.silva@dcx.ufpb.br)
+
+</p>
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
