@@ -1,10 +1,11 @@
 # John Wesley
+<p align="center">
 🎓 Sou John Wesley, estudante de Sistemas de Informação na UFPB, com foco em Segurança da Informação e Cibersegurança.
 
 👨‍💻 Tenho experiência com Python, Java, SQL, redes e sistemas operacionais (Windows/Linux), além de atuar como Vice-Presidente do Centro Acadêmico, organizando eventos e workshops.
 
 🚀 Busco oportunidades para crescer na área de tecnologia e segurança digital.
-
+</p>
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-moreira-pinto)
 
