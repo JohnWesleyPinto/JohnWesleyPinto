@@ -54,11 +54,6 @@
 <h3>🚀 &nbsp;Projetos em Destaque</h3>
 
 <p>
-  🔹 <b>GUARAVES-MONITOR</b><br>
-  Sistema de monitoramento de serviços utilizando Python, FastAPI, PostgreSQL e Docker.<br><br>
-
-  🔹 <b>Notes</b><br>
-  Aplicação Web desenvolvida com Spring Boot e Thymeleaf seguindo arquitetura MVC.<br><br>
 
   🔹 <b>Homelab</b><br>
   Ambiente pessoal para estudos de Linux, Docker, Redes, Monitoramento e Segurança.<br><br>
