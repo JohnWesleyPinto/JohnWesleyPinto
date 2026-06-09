@@ -1,52 +1,115 @@
-<!-- My Intro -->
-<h2 align="center">Hi, I'm John Wesley 🎓</h2>
+<h1 align="center">👋 Olá, eu sou John Wesley</h1>
 
 <p align="center">
-    I'm an Information Systems student at UFPB, focusing on Information Security and Cybersecurity.<br>
-    I have experience with Python, Java, SQL, networks, and operating systems (Windows/Linux).<br>
-    Currently serving as Vice-President of the Academic Center, organizing events and workshops.<br>
-    I'm looking for opportunities to grow in the technology and digital security field.
+  <b>SOC Analyst • Linux Enthusiast • Software Developer • Cybersecurity Student</b>
 </p>
 
-<!-- Connect with me -->
-<p align="center">
-    Feel free to connect with me on 
-    <a href="https://linkedin.com/in/john-moreira-pinto">LinkedIn</a> or 
-    <a href="mailto:john.silva@dcx.ufpb.br">Gmail</a>.
+<hr>
+
+<h3>👨🏻‍💻 &nbsp;Sobre Mim</h3>
+
+<p>
+💡 &nbsp;Gosto de explorar novas tecnologias, construir projetos práticos e aprender continuamente sobre desenvolvimento de software, infraestrutura e segurança da informação.<br><br>
+
+🎓 &nbsp;Sou estudante de Sistemas de Informação na Universidade Federal da Paraíba (UFPB).<br><br>
+
+🛡️ &nbsp;Atuo na área de Security Operations Center (SOC), trabalhando com monitoramento, análise de incidentes e proteção de ambientes contra ataques DDoS.<br><br>
+
+🐧 &nbsp;Entusiasta de Linux, Software Livre, automação e infraestrutura.<br><br>
+
+🌱 &nbsp;Atualmente estou aprofundando meus conhecimentos em Cibersegurança, Redes de Computadores, Cloud Computing, DevOps e Desenvolvimento Back-end.<br><br>
+
+👥 &nbsp;Também atuo como Presidente do Centro Acadêmico de Sistemas de Informação da UFPB, contribuindo com eventos, workshops e iniciativas acadêmicas.<br><br>
+
+📚 &nbsp;Fora da tecnologia, gosto de ler livros, assistir séries, animes e explorar novas ideias através da leitura e do aprendizado contínuo.
 </p>
 
-<!-- Technology Stack -->
-<h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
+<img 
+  alt="Night Coding" 
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+  align="right" 
+  width="350"
+/>
 
-<p align="center">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
-    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F">
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC">
+<h3>🛠️ &nbsp;Tech Stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk" alt="Java">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL"><br>
+
+  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" alt="Spring Boot">&nbsp;
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" alt="FastAPI">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"><br>
+
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux">&nbsp;
+  <img src="https://img.shields.io/badge/-Zabbix-05122A?style=flat&logo=zabbix" alt="Zabbix">&nbsp;
+  <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana" alt="Grafana">&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 </p>
 
-<!-- Skills -->
-<h2 align="center">Skills</h2>
-<ul>
-    <li>Teamwork</li>
-    <li>Problem Solving</li>
-    <li>Effective Communication</li>
-</ul>
+<h3>🚀 &nbsp;Projetos em Destaque</h3>
 
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Stats 📊</h2>
+<p>
+  🔹 <b>GUARAVES-MONITOR</b><br>
+  Sistema de monitoramento de serviços utilizando Python, FastAPI, PostgreSQL e Docker.<br><br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JohnWesleyPinto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+  🔹 <b>Notes</b><br>
+  Aplicação Web desenvolvida com Spring Boot e Thymeleaf seguindo arquitetura MVC.<br><br>
+
+  🔹 <b>Homelab</b><br>
+  Ambiente pessoal para estudos de Linux, Docker, Redes, Monitoramento e Segurança.<br><br>
+
+  🔹 <b>Projetos Acadêmicos</b><br>
+  Desenvolvimento de sistemas, pesquisa aplicada e soluções voltadas para comunidade e educação.
 </p>
 
-<!-- Most Used Languages -->
-<h2 align="center">Top Languages 🚀</h2>
+<h3>⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnWesleyPinto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+  <a href="https://github.com/JohnWesleyPinto">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=JohnWesleyPinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyPinto&layout=compact&langs_count=8&theme=tokyonight"
+    />
+  </a>
+</p>
+
+<h3>🎯 &nbsp;Objetivos</h3>
+
+<p>
+  🚀 Evoluir na área de Cybersecurity<br>
+  ☁️ Trabalhar com Cloud e Infraestrutura<br>
+  🐧 Contribuir para projetos Open Source<br>
+  💻 Desenvolver soluções que gerem impacto real<br>
+  👥 Compartilhar conhecimento através da comunidade acadêmica
+</p>
+
+<h3>🤝🏻 &nbsp;Connect with Me</h3>
+
+<p align="center">
+  <a href="https://github.com/JohnWesleyPinto">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://linkedin.com/in/john-moreira-pinto">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:john.silva@dcx.ufpb.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <i>"Aprender, construir e compartilhar conhecimento todos os dias."</i>
 </p>
